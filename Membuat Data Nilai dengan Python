@@ -33,7 +33,7 @@ print("Nama:", mahasiswa1)
 print("Nilai", nilai1)
 
 ##Hasil mahasiswa1
-if nilai1 > nilaikkm:
+if nilai1 > kkm:
 	print("Selamat Anda Lulus Ujian!")
 else:
 	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
@@ -45,7 +45,7 @@ print("Nama:", mahasiswa2)
 print("Nilai", nilai2)
 
 ##Hasil mahasiswa2
-if nilai1 > nilaikkm:
+if nilai2 > kkm:
 	print("Selamat Anda Lulus Ujian!")
 else:
 	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
@@ -56,7 +56,7 @@ print("Nama:", mahasiswa3)
 print("Nilai", nilai3)
 
 ##Hasil mahasiswa3
-if nilai1 > nilaikkm:
+if nilai3 > kkm:
 	print("Selamat Anda Lulus Ujian!")
 else:
 	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
@@ -68,7 +68,7 @@ print("Nama:", mahasiswa4)
 print("Nilai", nilai4)
 
 ##Hasil mahasiswa4
-if nilai1 > nilaikkm:
+if nilai4 > kkm:
 	print("Selamat Anda Lulus Ujian!")
 else:
 	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
@@ -80,7 +80,7 @@ print("Nama:", mahasiswa5)
 print("Nilai", nilai5)
 
 ##Hasil mahasiswa5
-if nilai1 > nilaikkm:
+if nilai5 > kkm:
 	print("Selamat Anda Lulus Ujian!")
 else:
 	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
@@ -92,7 +92,7 @@ print("Nama:", mahasiswa6)
 print("Nilai", nilai6)
 
 ##Hasil mahasiswa6
-if nilai1 > nilaikkm:
+if nilai6 > kkm:
 	print("Selamat Anda Lulus Ujian!")
 else:
 	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
@@ -104,7 +104,7 @@ print("Nama:", mahasiswa7)
 print("Nilai", nilai7)
 
 ##Hasil mahasiswa7
-if nilai1 > nilaikkm:
+if nilai7 > kkm:
 	print("Selamat Anda Lulus Ujian!")
 else:
 	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
@@ -116,7 +116,7 @@ print("Nama:", mahasiswa8)
 print("Nilai", nilai8)
 
 ##Hasil mahasiswa8
-if nilai1 > nilaikkm:
+if nilai8 > kkm:
 	print("Selamat Anda Lulus Ujian!")
 else:
 	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
@@ -128,7 +128,7 @@ print("Nama:", mahasiswa9)
 print("Nilai", nilai9)
 
 ##Hasil mahasiswa9
-if nilai1 > nilaikkm:
+if nilai9 > kkm:
 	print("Selamat Anda Lulus Ujian!")
 else:
 	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
@@ -140,7 +140,7 @@ print("Nama:", mahasiswa10)
 print("Nilai", nilai10)
 
 ##Hasil mahasiswa10
-if nilai1 > nilaikkm:
+if nilai10> kkm:
 	print("Selamat Anda Lulus Ujian!")
 else:
 	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
