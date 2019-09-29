@@ -1,0 +1,147 @@
+##python
+
+##Desklarasi
+mahasiswa1 = "Nama1"
+mahasiswa2 = "Nama2"
+mahasiswa3 = "Nama3"
+mahasiswa4 = "Nama4"
+mahasiswa5 = "Nama5"
+mahasiswa6 = "Nama6"
+mahasiswa7 = "Nama7"
+mahasiswa8 = "Nama8"
+mahasiswa9 = "Nama9"
+mahasiswa10 = "Nama10"
+
+##Nilai
+nilaikkm = 60
+nilai1 = 100
+nilai2 = 100
+nilai3 = 100
+nilai4 = 90
+nilai5 = 90
+nilai6 = 90
+nilai7 = 80
+nilai8 = 70
+nilai9 = 60
+nilai10 = 50
+
+##Data-Data
+
+##Data mahasiswa1
+print("Hasil Penilaian UAS")
+print("Nama:", mahasiswa1)
+print("Nilai", nilai1)
+
+##Hasil mahasiswa1
+if nilai1 > nilaikkm:
+	print("Selamat Anda Lulus Ujian!")
+else:
+	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
+print(" ") 
+
+##Data mahasiswa2
+print("Hasil Penilaian UAS")
+print("Nama:", mahasiswa2)
+print("Nilai", nilai2)
+
+##Hasil mahasiswa2
+if nilai1 > nilaikkm:
+	print("Selamat Anda Lulus Ujian!")
+else:
+	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
+print(" ")    
+##Data mahasiswa3
+print("Hasil Penilaian UAS")
+print("Nama:", mahasiswa3)
+print("Nilai", nilai3)
+
+##Hasil mahasiswa3
+if nilai1 > nilaikkm:
+	print("Selamat Anda Lulus Ujian!")
+else:
+	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
+print(" ") 
+
+##Data mahasiswa4
+print("Hasil Penilaian UAS")
+print("Nama:", mahasiswa4)
+print("Nilai", nilai4)
+
+##Hasil mahasiswa4
+if nilai1 > nilaikkm:
+	print("Selamat Anda Lulus Ujian!")
+else:
+	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
+print(" ")    
+
+##Data mahasiswa5
+print("Hasil Penilaian UAS")
+print("Nama:", mahasiswa5)
+print("Nilai", nilai5)
+
+##Hasil mahasiswa5
+if nilai1 > nilaikkm:
+	print("Selamat Anda Lulus Ujian!")
+else:
+	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
+print(" ")    
+
+##Data mahasiswa6
+print("Hasil Penilaian UAS")
+print("Nama:", mahasiswa6)
+print("Nilai", nilai6)
+
+##Hasil mahasiswa6
+if nilai1 > nilaikkm:
+	print("Selamat Anda Lulus Ujian!")
+else:
+	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
+print(" ")    
+
+##Data mahasiswa7
+print("Hasil Penilaian UAS")
+print("Nama:", mahasiswa7)
+print("Nilai", nilai7)
+
+##Hasil mahasiswa7
+if nilai1 > nilaikkm:
+	print("Selamat Anda Lulus Ujian!")
+else:
+	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
+print(" ")    
+
+##Data mahasiswa8
+print("Hasil Penilaian UAS")
+print("Nama:", mahasiswa8)
+print("Nilai", nilai8)
+
+##Hasil mahasiswa8
+if nilai1 > nilaikkm:
+	print("Selamat Anda Lulus Ujian!")
+else:
+	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
+print(" ")    
+
+##Data mahasiswa9
+print("Hasil Penilaian UAS")
+print("Nama:", mahasiswa9)
+print("Nilai", nilai9)
+
+##Hasil mahasiswa9
+if nilai1 > nilaikkm:
+	print("Selamat Anda Lulus Ujian!")
+else:
+	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
+print(" ")    
+
+##Data mahasiswa10
+print("Hasil Penilaian UAS")
+print("Nama:", mahasiswa10)
+print("Nilai", nilai10)
+
+##Hasil mahasiswa10
+if nilai1 > nilaikkm:
+	print("Selamat Anda Lulus Ujian!")
+else:
+	print ("Maaf Anda Tidak Lulus Bisa Mengulang Kembali")
+print(" ")    
