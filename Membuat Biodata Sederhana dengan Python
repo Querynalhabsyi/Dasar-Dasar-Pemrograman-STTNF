@@ -1,10 +1,10 @@
 Input
 
-Nama_Lengkap = “Fathiah Alhabsyi”
-TTL = “Jakarta, 29 Juni 2000”
-Usia = “19”
-Hobi = “Membaca dan Berpikir”
-Alamat = “Jl. Kweni No.25B 001/03 Balekambang, Kramat Jati, Jakarta Timur, 13530”
+Nama_Lengkap = “Namamu”
+TTL = “Tanggal Tempat Lahir”
+Usia = “Usiamu berbentuk angka”
+Hobi = “Hobimu”
+Alamat = “Alamatmu"
 
 Deskripsi
 >>> print("Hai ini Biodataku", "\n",
