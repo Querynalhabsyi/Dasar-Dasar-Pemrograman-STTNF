@@ -1,0 +1,64 @@
+#Bahasa Python
+
+phi=3.14
+r=5
+luas=phi*r*r
+print(luas)
+("")
+phi=22/7
+r=5
+luas=phi*r*r
+print(luas)
+("")
+phi=3.14
+r=float(input("Masukkan panjang jari-jari lingkaran"))
+luas=phi*r*r
+print("Luas lingkaran adalah:"+str(luas))
+
+#Bahasa C
+
+/***
+  *Code created by Fathiah Alhabsyi
+  *Menghitung Luas Lingkaran dengan Bahasa C
+*/
+#include <stdio.h>
+
+int main()
+{
+    float phi = 3.14; // inisialisasi nilai phi
+    float radius, luas; // deklarasi tipe 
+    
+    printf("Masukan nilai dari jari-jari lingkaran: ");
+    scanf("%f", &radius); // input jari-jari
+    
+    // LUAS LINGKARAN = phi*r*r
+    luas = phi*radius*radius; // rumus dari LUAS LINGKARAN
+    printf("Luas lingkaran yang diperoleh adalah: %.2f", luas);
+
+	return 0;
+}
+
+#Bahasa C++
+
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+    float l, r;
+    const float phi=3.14;
+
+    cout <<"----------------\n";
+    cout <<"Program Menghitung Luas Lingkaran\n";
+    cout <<"----------------\n";
+
+    cout <<"Masukkan panjang jari-jari lingkaran:";
+    cin >> r;
+
+    l=phi*r*r;
+
+    cout << "Luas Lingkarannya adalah"<< l << endl;
+
+    return 0;
+}
